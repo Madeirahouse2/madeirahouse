@@ -1,0 +1,6 @@
+Header add "Cache-Control" "no-cache"
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^madeira\.house$ [NC]
+RewriteCond %{THE_REQUEST} ^GET\ /+timesofmadeira/ [NC]
+RewriteRule ^timesofmadeira/(.*)$ https://www.timesofmadeira.com/images/$1 [R=301,L]
