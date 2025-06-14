@@ -1,0 +1,764 @@
+/*
+
+November Template
+
+http://www.templatemo.com/tm-473-november
+
+*/
+
+@media only screen and (min-width: 769px) and (max-width: 10000px) {
+	#mobile_sec .menumobile { display: block!important; }
+	.a visited { color:#FFFFFF;
+	
+	}
+	
+		.Navigation li .lang-flag {
+    background-image: url( "../img/german.png");
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: center;
+	padding-top: 70px; 
+	background-size: 80%;
+	
+}
+	
+	header.smaller .Navigation li .lang-flag {
+    background-image: url( "../img/german.png");
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: center;
+	padding-top: 40px;
+	background-size: 80%;
+	
+}
+	
+	header.smaller .Navigation li .lang-flag2 {
+    background-image: url( "../img/polish.png");
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: center;
+	padding-top: 40px;
+	background-size: 80%;
+}
+	
+		.Navigation li .lang-flag2 {
+    background-image: url( "../img/polish.png");
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: center;
+	padding-top: 70px; 
+	margin-left: 5px;
+	background-size: 80%;
+}
+	
+	
+			.Navigation li .lang-flag3 {
+    background-image: url( "../img/english.png");
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: center;
+	padding-top: 70px; 
+	background-size: 80%;
+	
+}
+	
+	header.smaller .Navigation li .lang-flag3 {
+    background-image: url( "../img/english.png");
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: center;
+	padding-top: 40px;
+	background-size: 80%;
+	
+}
+	
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+	
+	.a visited { color:#FFFFFF; text-decoration: none;
+	}
+	.a link { color:#FFFFFF; text-decoration: none;
+	}
+
+	header { width: 100%; }
+	header .Center { width: 100%; padding: 0px 2%;  }
+	header .site-logo { padding: 18px 0 0 1px; }
+	header.smaller .site-logo { padding: 11px 0 0; text-decoration: none; }
+	
+	.Navigation { margin-right: 0px; }
+	.Navigation li a { padding: 30px 36px; }
+	header.smaller .Navigation li a { padding: 16px 36px; }
+	
+		.Navigation li .lang-flag {
+    background-image: url( "../img/german.png");
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: center;
+	padding-top: 50px;
+	
+}
+	
+		.Navigation li .lang-flag2 {
+    background-image: url( "../img/polish.png");
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: center;
+	padding-top: 50px; 
+	margin-left: 5px;
+	
+}
+	
+	
+			.Navigation li .lang-flag3 {
+    background-image: url( "../img/english.png");
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: center;
+	padding-top: 50px;
+	
+}
+
+	
+	.Banner_sec { width: 100%; height: 800px; }
+	.Banner_sec .Center {width: 100%; padding: 0px 2%; }
+	.Banner_sec .bannerside { top: 100px; }
+	.Banner_sec .leftside h3 { font-size: 60px; }
+	.Banner_sec .rightside { width: 70%; }
+	.Banner_sec .rightside .Slider { width: 100%; }
+	.Banner_sec .rightside .Slider .text { padding: 25px 10px 21px 10px; }
+	.Banner_sec .rightside .Slider .text .Icon { width: 45%; }
+	.Banner_sec .rightside .Slider .text .Lorem { width: 40%; }
+	.Banner_sec .rightside .Shadow { width: 105%; }
+	.Banner_sec .rightside .prevBtn { top: 160px; }
+	.Banner_sec .rightside .nextBtn { top: 160px; }
+
+	#Container { width: 100%; }
+
+	.About_sec { width: 100%; padding: 70px 0px; }
+	.About_sec .Center { width: 100%; padding: 0px 2%; }
+	.About_sec p { font-size: 19px; }
+	.About_sec .Tabside { padding: 50px 0; }
+	.About_sec .Tabside .Description { margin-top: 0px; }
+
+	.Services_sec { width: 100%; padding: 70px 0px;  }
+	.Services_sec .Center { width: 100%; padding: 0px 2%; }
+	.Services_sec p { font-size: 13px; }
+	.Services_sec .Serviceside { width: 100%; padding: 50px 0 30px; }
+	.Services_sec .Serviceside li { margin: 0px 2% 0px 0px; width: 23.5%; }
+
+	.Pricing_sec { width: 100%; padding: 70px 0px; }
+	.Pricing_sec .Center { width: 100%; padding: 0px 2%; }
+	.Pricing_sec p { font-size: 19px; }
+	.Pricing_sec .Pricingside { width: 100%; padding: 50px 0 0 }
+	.Pricing_sec .Pricingside li .Basic { width: 6%;}
+	.Pricing_sec .Pricingside li .Dollar { width: 14%;  }
+	.Pricing_sec .Pricingside li .Band { width: 16%; padding:  1px 30px}
+	.Pricing_sec .Pricingside li .Order { width: 16%; float: right; }
+
+	.Pricing_sec .Pricingside li.bg1 .Dollar1 { width: 14.8%; }
+	.Pricing_sec .Pricingside li.bg1 .Band { width: 16%; padding:  1px 30px}
+	.Pricing_sec .Pricingside li.bg1 .Order1 { width: 16%; float: right; }
+	
+
+	.Contact_sec { width: 100%; }
+	.Contact_sec .Center { width: 100%; padding: 70px 2%;}
+	
+	.Contact_sec .Map { width: 100%;}
+	.Contact_sec .Map img { height: 300px; width: 100%; }
+	
+	.Get_sec { width: 100%; }
+	.Get_sec .Mid { width: 100%; padding: 50px 2%; }
+
+	footer { width: 100%; }
+	footer .Cntr { width: 100%; padding: 20px 2%; }
+}	
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+	
+	.a visited { color:white;
+	
+	}
+
+	header { width: 100%; height: 87px; }
+	header .Center { width: 100%; padding: 0px 2%; }
+	header .site-logo { padding: 27px 0 0 1px;  position: relative; z-index: 1; }
+	header .site-logo h1 { line-height: 33px; }	
+	header.smaller .Navigation li a { padding: 16px 20px; }
+
+	.Navigation {  margin-right: 0px; }
+	.Navigation li a { padding: 30px 15px; }
+	
+	
+	.Navigation li .lang-flag {
+    background-image: url( "../img/german.png");
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: center;
+	padding-top: 50px; 
+	
+}
+
+	
+	.Navigation li .lang-flag2 {
+    background-image: url( "../img/polish.png");
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: center;
+	padding-top: 50px; 
+	margin-left: 5px;
+	
+}
+	
+		.Navigation li .lang-flag3 {
+    background-image: url( "../img/english.png");
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: center;
+	padding-top: 50px; 
+	
+}
+	
+	
+	.Banner_sec { width: 100%; height: 700px; }
+	.Banner_sec .Center {width: 100%; padding: 0px 2%; }
+	.Banner_sec .bannerside { top: 170px; }
+	.Banner_sec .leftside { padding: 0px; width: 34%; }
+	.Banner_sec .leftside h3 
+	.Banner_sec .leftside p { padding: 10px  0px; font-size: 14px; line-height: 18px; }
+	.Banner_sec .rightside { width: 64%;}
+	.Banner_sec .rightside .Slider { width: 100%;}
+	.Banner_sec .rightside .Slider .text { padding: 25px 10px 21px 10px; }
+	.Banner_sec .rightside .Slider .text .Icon { width: 46%; }
+	.Banner_sec .rightside .Slider .text li { padding: 0px 10px;}
+	.Banner_sec .rightside .Slider .text .Lorem { width: 50%; }
+	.Banner_sec .rightside .Slider .text .Lorem p { font-size: 16px; }
+	.Banner_sec .rightside .Shadow { width: 106.5%; left: -21px; }
+	.Banner_sec .rightside .prevBtn { top: 100px; left: 10px; }
+	.Banner_sec .rightside .nextBtn { top: 100px; right: 10px; }
+
+	#Container { width: 100%; }
+
+	.About_sec { width: 100%; padding: 70px 0px 30px 0px; }
+	.About_sec .Center { width: 100%; padding: 0px 2%; }
+	.About_sec h2 { font-size: 40px; line-height: 40px; }
+	.About_sec p { font-size: 19px;  }
+	.About_sec .Tabside { padding: 50px 0 0px 0; }
+	.About_sec .Tabside .Description { margin-top: 0px; width: 100%; }
+	.About_sec .Tabside .Description p { padding: 10px 0px; }
+	.About_sec .Tabside .TabImage { width: 45.63%; }
+	.About_sec .Tabside .TabImage .img1 { left: 0px; background-position: -40px 203px; }
+	.About_sec .Tabside .TabImage .img1 img { width: 95%; }
+	
+	.About_sec .Tabside .TabImage .img2 { left: 15px; height: auto; background-position: -50px 132px;  }
+	.About_sec .Tabside .TabImage .img2 img { width: 90%; height: auto; }
+
+	.Services_sec { width: 100%; padding: 70px 0px 30px 0px; }
+	.Services_sec .Center { width: 100%; padding: 0px 2%; }
+	.Services_sec h2 { font-size: 40px; line-height: 40px; }
+	.Services_sec p { padding: 15px 0px; font-size: 13px; }
+	.Services_sec .Serviceside { width: 100%; padding: 50px 0 30px; }
+	.Services_sec .Serviceside li { margin: 0px 2% 0px 0px; width: 23.5%; }
+
+	.Services_sec .Serviceside li.Development a { background-size: 60%;}
+	.Services_sec .Serviceside li.Development h4 { padding: 134px 0 0; }
+	.Services_sec .Serviceside li.Development a:hover h4 { background-size: 60%;}
+
+	.Services_sec .Serviceside li.Desdin a { background-size: 60%;}
+	.Services_sec .Serviceside li.Desdin h4 { padding: 134px 0 0; }
+	.Services_sec .Serviceside li.Desdin a:hover h4 { background-size: 60%;}
+
+	.Services_sec .Serviceside li.Concept a { background-size: 60%;}
+	.Services_sec .Serviceside li.Concept h4 { padding: 134px 0 0; }
+	.Services_sec .Serviceside li.Concept a:hover h4 { background-size: 60%;}
+
+	.Services_sec .Serviceside li.System a { background-size: 60%;}
+	.Services_sec .Serviceside li.System h4 { padding: 134px 0 0; }
+	.Services_sec .Serviceside li.System a:hover h4 { background-size: 60%;}
+
+	.Pricing_sec { width: 100%; padding: 70px 0px 30px 0px; }
+	.Pricing_sec .Center { width: 100%; padding: 0px 2%; }
+	.Pricing_sec h2 { font-size: 40px; line-height: 40px; }
+	.Pricing_sec p { padding: 15px 0px; font-size: 19px; }
+	.Pricing_sec .Pricingside { width: 100%; padding: 30px 0 0 }
+	.Pricing_sec .Pricingside li { height: 90px;}
+	.Pricing_sec .Pricingside li:hover .Band { padding: 0px; height: 90px; }
+	.Pricing_sec .Pricingside li .Basic { width: 8%; height: 90px;}
+	.Pricing_sec .Pricingside li .Dollar { width: 14%; height: 90px; }
+	.Pricing_sec .Pricingside li .Dollar h2 { font-size: 24px; }
+	.Pricing_sec .Pricingside li .Band { width: 16%; }
+	.Pricing_sec .Pricingside li .Band p { font-size: 15px; }
+	.Pricing_sec .Pricingside li .Order { width: 14%; float: right; height: 90px; }
+	
+
+	.Contact_sec { width: 100%; }
+	.Contact_sec .Center { width: 100%; padding: 70px 2% 30px 2%; }
+	.Contact_sec h2 { font-size: 40px; line-height: 40px; }
+	.Contact_sec p { padding: 15px 0px; font-size: 13px; }
+
+	.Contact_sec .Map { width: 100%;}
+	.Contact_sec .Map img { height: 250px; width: 100%; }
+	
+	
+	
+	.Get_sec { width: 100%; }
+	.Get_sec .Mid { width: 100%; padding: 30px 3%; }
+	.Get_sec .Leftside { width: 100%; float: right;}
+	.Get_sec .Leftside p { margin: 0 0 20px; } 
+	.Get_sec .Leftside input.field { padding: 18px 20px 17px 20px; }
+	.Get_sec .Leftside textarea { padding: 18px 20px 17px 20px; height: 125px; }
+	.Get_sec .Leftside .button { -webkit-appearance: none;  margin: 0px; padding: 12px 0px; }
+
+	.Get_sec .Rightside { padding-top: 0px; }
+	.Get_sec .Rightside h3 { font-size: 40px; padding-bottom: 34px; }
+	.Get_sec .Rightside address { padding: 0 0 23px 65px; }
+
+	footer { width: 100%; }
+	footer .Cntr { width: 100%; padding: 20px 2%; }
+	
+
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+	.a visited { color:white;}
+
+	header { width: 100%; position: absolute; height: 57px;}
+	header .Center { width: 100%;  }
+	header .site-logo { padding: 10px 0% 0px 3%; position: relative; z-index: 1; }
+	header .site-logo h1 { margin: 0px; line-height: 36px; }
+	header.smaller { height: 55px;}
+	header.smaller .site-logo { padding: 10px 0% 0px 3%; }
+	header.smaller .site-logo h1 a { font-size: 36px; }
+	
+
+	
+	#mobile_sec { position: fixed; width: 100%; }
+	#mobile_sec .mobile { display: block; position: relative; float: right;}
+	#mobile_sec .menumobile { display: none; width: 100%; position: absolute; top: 55px; right: 0%; background: #263d96;  }
+	#mobile_sec .menumobile .Navigation { width: 100%; float: none; }
+	#mobile_sec .menumobile .Navigation ul { float: none;}
+	#mobile_sec .menumobile .Navigation li { float: none; width: 100%; border-bottom: solid 1px #365374; }
+	
+	#mobile_sec .menumobile .Navigation li a { padding: 10px 21px; background: none; border-bottom: none; }
+	#mobile_sec .menumobile .Navigation li:last-child { border-bottom: none; }
+	#mobile_sec .menumobile .Navigation li .lang-flag {
+    background-image: url( "../img/german.png");
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: center;
+	padding-top: 10px; 
+	padding: 22px;
+	float: left;
+    margin-left: 20px;
+}
+	
+	#mobile_sec .menumobile .Navigation li .lang-flag2 {
+    background-image: url( "../img/polish.png");
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: center;
+	padding-top: 10px; 
+	padding: 22px;
+	float: left;
+    margin-left: 20px;
+}
+	
+	
+	#mobile_sec .menumobile .Navigation li .lang-flag3 {
+    background-image: url( "../img/english.png");
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: center;
+	padding-top: 10px; 
+	padding: 22px;
+	float: left;
+    margin-left: 20px;
+}
+	
+	
+	.Banner_sec { width: 100%; height: 700px; }
+	.Banner_sec .Center {width: 100%; padding: 0px 3%; }
+	.Banner_sec .bannerside { top: 90px; }
+	.Banner_sec .leftside { padding: 0px 0px 20px 0px; width: 100%; float: none; }
+	.Banner_sec .rightside { width: 99%;}
+	.Banner_sec .rightside .Slider { width: 100%;}
+	.Banner_sec .rightside .Slider .text { padding: 10px 10px; }
+	.Banner_sec .rightside .Slider .text .Icon { width: 48%; }
+	.Banner_sec .rightside .Slider .text li { padding: 0px 10px;}
+	.Banner_sec .rightside .Slider .text .Lorem { width: 50%; }
+	.Banner_sec .rightside .Slider .text .Lorem p { font-size: 14px; }
+	.Banner_sec .rightside .Shadow { width: 105.5%; left: -16px; }
+	.Banner_sec .rightside .prevBtn { top: 100px; left: 10px; }
+	.Banner_sec .rightside .nextBtn { top: 100px; right: 10px; }
+	.Banner_sec .rightside #slider li img { height: 280px; width: 100%;}	
+
+	.bgcolor { height: 50px; }
+
+	#Container { width: 100%; }
+
+	.About_sec { width: 100%; padding: 100px 0px 50px; }
+	.About_sec .Center { width: 100%; padding: 0px 3%; }
+	.About_sec h2 { font-size: 40px; line-height: 39px; }
+	.About_sec p {  font-size: 19px; }
+	.About_sec .Tabside { padding: 30px 0 0px 0; }
+	.About_sec .Tabside ul { padding-bottom: 25px;}
+	.About_sec .Tabside li a { font-size: 14px; padding: 14px 30px; }
+	.About_sec .Tabside .TabImage { width: 100%; float: none; padding-bottom: 35px; text-align: center;}
+	.About_sec .Tabside .TabImage .img1 { left: 0px; position: relative; }
+	.About_sec .Tabside .TabImage .img1 img { margin: auto;}
+	.About_sec .Tabside .TabImage .img2 { left: 25px;  }
+	.About_sec .Tabside .TabImage .img2 img { width: 100%; height: auto; }
+	.About_sec .Tabside .Description { margin-top: 0px; width: 100%; }
+	.About_sec .Tabside .Description p { padding: 10px 0px; text-align: justify; }
+
+	.Services_sec { width: 100%; padding: 100px 0px 30px; }
+	.Services_sec .Center { width: 100%; padding: 0px 3%; }
+	.Services_sec h2 { font-size: 30px; line-height: 39px; }
+	.Services_sec p { padding: 15px 0px; font-size: 13px; }
+	.Services_sec .Serviceside { width: 100%; padding: 50px 0 30px; }
+	.Services_sec .Serviceside li { margin: 0px 0% 3% 2%; float: none; display:inline-block; }
+
+
+	.Pricing_sec { width: 100%; padding: 100px 0px 30px; }
+	.Pricing_sec .Center { width: 100%; padding: 0px 3%; }
+	.Pricing_sec h2 { font-size: 40px; line-height: 39px; }
+	.Pricing_sec p { padding: 15px 0px; font-size: 19px; }
+	.Pricing_sec .Pricingside { width: 100%; padding: 30px 0 0 }
+	.Pricing_sec .Pricingside li { height: 100%; width: 100%; margin: 0px 0px 50px 0px; }
+	.Pricing_sec .Pricingside li .Basic { width: 100%; float: none; }
+	.Pricing_sec .Pricingside li .Basic h5 { -webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); -o-transform: rotate(0deg); -ms-transform: rotate(0deg); transform: rotate(0deg); writing-mode: lr-tb; }
+	.Pricing_sec .Pricingside li .Dollar { width: 100%; float: none; }
+	.Pricing_sec .Pricingside li .Band { width: 100%; float: none; border-bottom: solid 1px #ccc; background: none; height: 75px; }
+	.Pricing_sec .Pricingside li .Order { width: 100%; float: none; }
+	.Pricing_sec .Pricingside li:hover .Band { height: 75px; }
+	
+
+	
+	.Contact_sec { width: 100%; }
+	.Contact_sec .Center { width: 100%; padding: 80px 3%;}
+	.Contact_sec h2 { font-size: 30px; line-height: 39px; }
+	.Contact_sec p { padding: 15px 0px; font-size: 13px; }
+
+	.Contact_sec .Map { width: 100%;}
+	.Contact_sec .Map img { height: 200px; width: 100%; }
+	
+	.Get_sec { width: 100%; }
+	.Get_sec .Mid { width: 100%; padding: 30px 3%; }
+	.Get_sec .Leftside { width: 100%; float: right;}
+	.Get_sec .Leftside p { margin: 0 0 20px; } 
+	.Get_sec .Leftside input.field { padding: 18px 20px 17px 20px;}
+	.Get_sec .Leftside textarea { padding: 18px 20px 17px 20px; height: 125px; }
+	.Get_sec .Leftside .button { -webkit-appearance: none;  margin: 0px; padding: 12px 0px; }
+
+	.Get_sec .Rightside { padding-top: 0px; width: 100%; }
+	.Get_sec .Rightside h3 { font-size: 30px; padding-bottom: 20px; }
+	.Get_sec .Rightside address { padding: 0 0 15px 65px; }
+	.Get_sec .Rightside ul { padding: 10px 0 0 3px; }
+
+	footer { width: 100%; }
+	footer .Cntr { width: 100%; padding: 10px 3%; }
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+	
+	.a visited { color:white;}
+
+
+	header { width: 100%; position: absolute; height: 57px; }
+	header .Center { width: 100%;}
+	header .site-logo { padding: 10px 0% 0px 3%; position: relative; z-index: 1; }
+	header .site-logo h1 { margin: 0px; line-height: 36px; }
+	header.smaller { height: 55px;}
+	header.smaller .site-logo { padding: 10px 0% 0px 2%; }
+	header.smaller .site-logo h1 a { font-size: 36px; }
+	
+	#mobile_sec { position: fixed; width: 100%;}
+	#mobile_sec .mobile { display: block; position: relative; float: right; }
+	#mobile_sec .menumobile { display: none; width: 100%; position: absolute; top: 55px; right: 0%; background: #263d96;  }
+	#mobile_sec .menumobile .Navigation { width: 100%; float: none; }
+	#mobile_sec .menumobile .Navigation ul { float: none;}
+	#mobile_sec .menumobile .Navigation li { float: none; width: 100%; border-bottom: solid 1px #365374; }
+	#mobile_sec .menumobile .Navigation li a { padding: 10px; background: none; border-bottom: none; }
+	#mobile_sec .menumobile .Navigation li a:hover, #mobile_sec .menumobile .Navigation li a.active {  border-bottom: none; }
+	#mobile_sec .menumobile .Navigation li:last-child { border-bottom: none; }
+	#mobile_sec .menumobile .Navigation li .lang-flag {
+    background-image: url( "../img/german.png");
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: center;
+	padding-top: 10px; 
+	padding: 21px;
+	float: left;
+    margin-left: 20px;
+	
+}
+	
+	#mobile_sec .menumobile .Navigation li .lang-flag2 {
+    background-image: url( "../img/polish.png");
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: center;
+	padding-top: 10px; 
+	padding: 21px;
+	float: left;
+    margin-left: 20px;
+	
+}
+	
+	#mobile_sec .menumobile .Navigation li .lang-flag3 {
+    background-image: url( "../img/english.png");
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position: center;
+	padding-top: 10px; 
+	padding: 21px;
+	float: left;
+    margin-left: 20px;
+	
+}
+
+	.Banner_sec .rightside { padding: 0px 0px 0px 0px !important; }
+	.Banner_sec { width: 100%; height: 556px; }
+	.Banner_sec .Center {width: 100%; padding: 0px 3%; }
+	.Banner_sec .bannerside { top: 90px; }
+	.Banner_sec .leftside { padding: 0px 0px 10px 0px; width: 100%; float: none; }
+	.Banner_sec .leftside h3 { font-size: 36px; }
+	.Banner_sec .leftside p { font-size: 14px; line-height: 18px; padding: 10px 0px; }
+	.Banner_sec .leftside a { font-size: 24px; font-weight: 800}
+	.Banner_sec .rightside { width: 98% !important;}
+	.img3 { max-width: 94% !important;}
+	.Banner_sec .rightside .Slider { width: 99%; text-align: center; }
+	.Banner_sec .rightside .Slider .text { padding: 10px 10px; }
+	.Banner_sec .rightside .Slider .text .Icon { width: 100%; }
+	.Banner_sec .rightside .Slider .text .Icon li { float: none!important; display: inline-block; padding: 0px 10px;}
+	.Banner_sec .rightside .Slider .text .Lorem { width: 100%;  }
+	.Banner_sec .rightside .Slider .text .Lorem p { font-size: 13px; text-align: initial;}
+	.Banner_sec .rightside .Slider .text .Lorem p span { display: inline-block; float: right; }
+	.Banner_sec .rightside .Shadow { width: 105.5%; left: -16px; }
+	.Banner_sec .rightside .prevBtn { top: 100px; left: 10px; }
+	.Banner_sec .rightside .nextBtn { top: 100px; right: 10px; }
+	.Banner_sec .rightside #slider li img { height: 290px; width: 100%;}	
+
+	
+	.bgcolor { height: 50px; }
+
+	#Container { width: 100%; }
+
+	.About_sec,
+	.Services_sec,
+	.Pricing_sec { 
+		width: 100%; padding: 60px 0px 30px; 
+	}
+	.About_sec .Center { width: 100%; padding: 0px 3%; }
+	.About_sec h2 { font-size: 40px; line-height: 39px; }
+	.About_sec p { font-size: 19px; }
+	.About_sec .Tabside { padding: 30px 0 0px 0; }
+	.About_sec .Tabside ul { padding-bottom: 25px;}
+	.About_sec .Tabside li a { font-size: 19px; padding: 14px; }
+	.About_sec .Tabside .TabImage { width: 100%; float: none; padding-bottom: 25px; text-align: center;}
+	.About_sec .Tabside .TabImage .img1 { left: 0px; position: relative; height: 244px; background: none;background-size: 100%; }
+	.About_sec .Tabside .TabImage .img1 img { margin: auto;}
+	.About_sec .Tabside .TabImage .img2 { left: 20px;  background: none; background-size: 100%; }
+	.About_sec .Tabside .TabImage .img2 img { width: 94%; height: auto; }
+	.About_sec .Tabside .Description { margin-top: 0px; width: 100%; }
+	.About_sec .Tabside .Description p { padding: 10px 0px; text-align: justify; }
+	
+	.Services_sec .Center { width: 100%; padding: 0px 3%; }
+	.Services_sec h2 { font-size: 30px; line-height: 39px; }
+	.Services_sec p { padding: 15px 0px; font-size: 13px; }
+	.Services_sec .Serviceside { width: 100%; padding: 50px 0 30px; }
+	.Services_sec .Serviceside li { margin: 0px 0% 3% 2%; float: none; display:inline-block; }
+	
+	.Pricing_sec .Center { width: 100%; padding: 0px 3%; }
+	.Pricing_sec h2 { font-size: 40px; line-height: 39px; }
+	.Pricing_sec p { padding: 15px 0px; font-size: 19px; }
+	.Pricing_sec .Pricingside { width: 100%; padding: 30px 0 0 }
+	.Pricing_sec .Pricingside li { height: 100%; width: 100%; margin: 0px 0px 50px 0px; }
+	.Pricing_sec .Pricingside li .Basic { width: 100%; float: none; }
+	.Pricing_sec .Pricingside li .Basic h5 { -webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); -o-transform: rotate(0deg); -ms-transform: rotate(0deg); transform: rotate(0deg); writing-mode: lr-tb; }
+	.Pricing_sec .Pricingside li .Dollar { width: 100%; float: none; }
+	.Pricing_sec .Pricingside li .Band { width: 100%; float: none; border-bottom: solid 1px #ccc; background: none; height: 75px; }
+	.Pricing_sec .Pricingside li .Order { width: 100%; float: none; }
+	.Pricing_sec .Pricingside li:hover .Band { height: 75px; }
+	
+	
+	.Contact_sec { width: 100%; }
+	.Contact_sec .Center { width: 100%; padding: 60px 3% 30px;}
+	.Contact_sec h2 { font-size: 30px; line-height: 39px; }
+	.Contact_sec p { padding: 15px 0px; font-size: 13px; }
+
+	.Contact_sec .Map { width: 100%;}
+	.Contact_sec .Map img { height: 200px; width: 100%; }
+	
+	.Mid h2 { font-size: 40px; line-height: 39px; }
+	
+	.Get_sec { width: 100%; }
+	.Get_sec .Mid { width: 100%; padding: 30px 4%; }
+	.Get_sec .Leftside { width: 100%; float: right;}
+	.Get_sec .Leftside p { margin: 0 0 20px; } 
+	.Get_sec .Leftside input.field { padding: 18px 20px 17px 20px; }
+	.Get_sec .Leftside textarea { padding: 18px 20px 17px 20px; height: 125px; }
+	.Get_sec .Leftside .button { margin: 0px; padding: 12px 0px; -webkit-appearance: none; }
+
+	.Get_sec .Rightside { padding-top: 0px; width: 100%; }
+	.Get_sec .Rightside h3 { font-size: 30px; padding-bottom: 10px; }
+	.Get_sec .Rightside address { padding: 0 0 15px 47px; }
+	.Get_sec .Rightside ul { padding: 10px 0 0 3px; }
+
+	footer { width: 100%; }
+	footer .Cntr { width: 100%; padding: 10px 3%; }	
+}
+
+@media only screen and (max-width: 1199px) {
+	
+	header,
+	.Navigation li,
+	.Navigation li:hover span, 
+	.Navigation li.active span { 
+		height: 87px; }
+	header.smaller .Navigation li:hover span,
+	header.smaller .Navigation li.active span {
+		height: 66px;
+	}
+	
+	}
+	.Banner_sec .leftside a {
+		margin-top: 20px;
+		margin-bottom: 20px;
+		line-height: 20px !important;
+	
+  font-size: 24px;
+  font-weight: 800;
+	
+}
+@media only screen and (max-width: 767px) {
+	header { 
+		height: 55px; 
+		position: fixed;
+	}
+	.Navigation li {
+		height: 45px;
+	}
+	header .site-logo {
+		padding-top: 8px;
+	}
+	.Navigation li:hover span, .Navigation li.active span {
+		height: 45px;
+	}
+	.Navigation li span {
+		border-bottom: none;
+		background: none;
+	}
+	#mobile_sec .menumobile .Navigation li:hover, 
+	#mobile_sec .menumobile .Navigation li.active {
+		background: #F239C9 none repeat scroll 0% 0%;
+		border-bottom: medium none;
+	}
+	header.smaller .Navigation li {
+		height: 45px;
+	}
+	
+	.Banner_sec .leftside h3 {
+		font-size: 35px;
+		line-height: 35px;
+		
+		}
+	
+	.Banner_sec .rightside {
+		padding: 0px 0px 0px 0px
+		
+		
+		
+	}
+}
+
+/* Styles for the WhatsApp button */
+.whatsapp-button {
+  position: fixed;
+  bottom: 85px; /* Adjust the distance from the bottom as needed */
+  right: 20px; /* Adjust the distance from the right as needed */
+  z-index: 9999; /* Ensures the button is above other content */
+  width: 70px;
+  height: 50px;
+  background-color: #4CAF50; /* Green color */
+  border-radius: 30px; /* Half of the button height to create round edges */
+  padding-left: 10px;
+  padding-right:10px;/* Adds spacing inside the button */
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  animation: headShake 3s infinite;
+}
+
+@keyframes headShake {
+  0% { transform: translateX(0); }
+  6.5% { transform: translateX(-6px) rotateY(-9deg); }
+  18.5% { transform: translateX(5px) rotateY(7deg); }
+  31.5% { transform: translateX(-3px) rotateY(-5deg); }
+  43.5% { transform: translateX(2px) rotateY(3deg); }
+  50% { transform: translateX(0); }
+  100% { transform: translateX(0); }
+}
+
+.whatsapp-button a {
+  color: white;
+  text-decoration: none;
+  line-height: 40px; /* Centers the text vertically */
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.whatsapp-button a i {
+	margin-right: 0px; /* Add spacing between the icon and text */
+	padding-bottom: 10px; 
+	text-decoration: none;
+	padding-top:3px;
+}
+
+.whatsapp-button a {
+	font-size:10px
+}
+
+/* Hover effect to change button background color */
+.whatsapp-button:hover {
+  background-color: #45a049; /* Darker green color */
+}
+
+
+   .signal-button {
+       position: fixed;
+       bottom: 20px;
+       right: 20px;
+       z-index: 9999;
+       width: 70px;
+       height: 50px;
+       background-color: #3A76F0;
+       border-radius: 30px;
+       padding-left: 10px;
+       padding-right:10px;
+       text-align: center;
+       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+       animation: headShake 3s infinite;
+   }
+
+
+
+   .signal-button a {
+       color: white;
+       text-decoration: none;
+       line-height: 40px;
+       font-size: 16px;
+       font-weight: bold;
+   }
+
+   .signal-button a img {
+       margin-right: 0px;
+       padding-bottom: 10px; 
+       padding-top: 7px;
+   }
+
+   
+
